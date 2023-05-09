@@ -69,6 +69,7 @@ const obj={
 }
 
 arr.age=18;
+
 for( x in arr){
 console.log('keys = '+ x + ',  value = '+ arr[x] ) 
 //as you can see we iterate over the keys not the value
